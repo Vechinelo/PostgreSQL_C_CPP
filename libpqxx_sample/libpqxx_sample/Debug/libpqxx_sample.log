@@ -1,0 +1,3 @@
+﻿  libpqxx_sample.cpp
+C:\Users\Владимир\source\repos\libpqxx_sample\libpqxx_sample\libpqxx_sample.cpp(20,30): warning C4018: <: несоответствие типов со знаком и без знака
+  libpqxx_sample.vcxproj -> C:\Users\Владимир\source\repos\libpqxx_sample\Debug\libpqxx_sample.exe

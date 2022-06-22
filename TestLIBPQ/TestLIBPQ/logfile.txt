@@ -1,0 +1,1 @@
+Duration of 3000 sessions with the db with 1 commit in each:109.248 s

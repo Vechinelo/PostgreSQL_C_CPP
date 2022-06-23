@@ -1,0 +1,2 @@
+Duration of 3000 SELECT * FROM table with 3000 tuples:2.95645 s
+Average time per request:0.000985483 s

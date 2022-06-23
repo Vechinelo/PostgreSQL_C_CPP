@@ -1,0 +1,2 @@
+Duration of 3000 INSERT:0.368928 s
+Average time per request:0.000122976 s

@@ -1,2 +1,0 @@
-Duration of 3000 INSERT with BEGIN/COMMIT:0.536025 s
-Average time per request:0.000178675 s

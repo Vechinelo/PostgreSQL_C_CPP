@@ -1,2 +1,0 @@
-Duration of 3000 sessions with the db with 1 commit in each:106.257 s
-Average time per request:0.0354188 s

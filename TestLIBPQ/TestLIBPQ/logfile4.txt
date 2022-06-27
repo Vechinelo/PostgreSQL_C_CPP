@@ -1,0 +1,2 @@
+Duration of 30000 INSERT BINARY:3361.82 ms
+Average time per request:0.112061 ms

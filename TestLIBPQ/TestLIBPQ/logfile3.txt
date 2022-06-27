@@ -1,2 +1,0 @@
-Duration of 30000 SELECT * FROM table with 30000 tuples:244566 ms
-Average time per request:8.1522 ms

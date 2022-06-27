@@ -1,2 +1,0 @@
-Duration of 30000 sessions (connect/disconnect):1057.13 s
-Average time per request:0.0352375 s

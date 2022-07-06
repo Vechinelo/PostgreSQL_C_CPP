@@ -1,0 +1,11 @@
+﻿  tApcPostgreSQLDrv.cpp
+C:\Users\Владимир\source\repos\iApcPostgreSQLDrv\iApcPostgreSQLDrv\tApcPostgreSQLDrv.h(47,1): warning C4275: class "iApcPostgreSQLDrv", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "tApcPostgreSQLDrv"
+C:\Users\Владимир\source\repos\iApcPostgreSQLDrv\iApcPostgreSQLDrv\iApcPostgreSQLDrv.h(8): message : см. объявление "iApcPostgreSQLDrv"
+C:\Users\Владимир\source\repos\iApcPostgreSQLDrv\iApcPostgreSQLDrv\tApcPostgreSQLDrv.h(46): message : см. объявление "tApcPostgreSQLDrv"
+  iApcPostgreSQLDrv.cpp
+C:\Users\Владимир\source\repos\iApcPostgreSQLDrv\iApcPostgreSQLDrv\tApcPostgreSQLDrv.h(47,1): warning C4275: class "iApcPostgreSQLDrv", не являющийся dll-интерфейсом, использован в качестве базового для dll-интерфейса class "tApcPostgreSQLDrv"
+C:\Users\Владимир\source\repos\iApcPostgreSQLDrv\iApcPostgreSQLDrv\iApcPostgreSQLDrv.h(8): message : см. объявление "iApcPostgreSQLDrv"
+C:\Users\Владимир\source\repos\iApcPostgreSQLDrv\iApcPostgreSQLDrv\tApcPostgreSQLDrv.h(46): message : см. объявление "tApcPostgreSQLDrv"
+  Создание кода...
+     Создается библиотека C:\Users\Владимир\source\repos\iApcPostgreSQLDrv\x64\Debug\iApcPostgreSQLDrv.lib и объект C:\Users\Владимир\source\repos\iApcPostgreSQLDrv\x64\Debug\iApcPostgreSQLDrv.exp
+  iApcPostgreSQLDrv.vcxproj -> C:\Users\Владимир\source\repos\iApcPostgreSQLDrv\x64\Debug\iApcPostgreSQLDrv.dll
